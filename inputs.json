@@ -1,0 +1,10 @@
+{"cred_path": "cred.json",
+ "ticker": "AMZN",
+ "base_path": "data",
+ "period": 10,
+ "max_lenght": 1000,
+ "col_lenght_name": "body_Length",
+ "nb_comp": 2,
+ "nb_clust": 4,
+ "model_name": "ahmedrachid/FinancialBERT-Sentiment-Analysis" 
+}
